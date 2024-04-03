@@ -99,7 +99,7 @@ print(df.info())
 
 
 ```python
-# Explorating the data / Excluding the values with 0 Reviews.
+# Exploring the data / Excluding the values with 0 Reviews.
 df_filtered_reviews = df[df['reviews'] > 0]
 ```
 

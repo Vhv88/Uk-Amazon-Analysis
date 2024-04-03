@@ -488,7 +488,3 @@ print(price_stats_df)
 
 *High-End Electronics and Gaming*: The 'electronic' and 'gaming' categories have high maximum prices, indicating the presence of **premium products** in these categories.
 
-
-```python
-
-```

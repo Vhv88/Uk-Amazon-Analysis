@@ -8,7 +8,9 @@ Required libraries for the analysis can be installed via pip:
 ```bash
 pip install pandas matplotlib seaborn nltk wordcloud
 ```
-## Data
+## Dataset
+The dataset for this project comes from Kaggle and is free to use. It can be downloaded directly from Kaggle or from [here](https://drive.google.com/file/d/1LiamB-yUNmhZrKL5ZtQ0Aw-j4wCdH_mc/view?usp=sharing).
+
 The dataset amz_uk_processed_data.csv contains detailed product information, including ASINs, titles, image URLs, product URLs, star ratings, review counts, prices, bestseller status, and category names.
 
 ## Usage

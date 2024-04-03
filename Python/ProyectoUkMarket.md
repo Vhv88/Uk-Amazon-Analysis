@@ -14,12 +14,6 @@ from nltk.tokenize import word_tokenize
 import re
 ```
 
-    [nltk_data] Downloading package punkt to
-    [nltk_data]     C:\Users\vhv88\AppData\Roaming\nltk_data...
-    [nltk_data]   Package punkt is already up-to-date!
-    
-
-
 ```python
 # Loading the dataset
 try:
